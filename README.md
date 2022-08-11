@@ -37,6 +37,11 @@ With the Nivo Funnel visualization wrapped in Bulma columns, for example:
 The NivoFunnel visualization would continously & infinitely expand horizontally.
 I wasn't able to quickly reproduce the bug in this current project. I don't recall what sort of CSS or html structure I had when the bug occured.  Oh well, at least this will be a serve as a simple NivoFunnel + Bulma CSS example.
 
+Screenshot of 3 Nivo Funnels--
+
+![Screenshot of 3 Nivo Funnels](./project-screenshot/3-funnels.png?raw=true "Screenshot of 3 Nivo Funnels")
+
+
 _________________CRA readme______________
 # Getting Started with Create React App
 
